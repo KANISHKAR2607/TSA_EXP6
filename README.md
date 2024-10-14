@@ -20,7 +20,7 @@ datetime, and perform some initial data exploration
 4. You plot the time series data
 5. You import the necessary 'statsmodels' libraries for time series analysis
 6. You decompose the time series data into its additive components and plot them
-7. You calculate the mean and standard deviation of the entire sales dataset, then fit a Holt-Winters model to the entire dataset and make future predictions
+7. You calculate the mean and standard deviation of the AirTemp (C) in Water Quality dataset, then fit a Holt-Winters model to the entire dataset and make future predictions
 8. You plot the original sales data and the predictions
 
 ### PROGRAM:
